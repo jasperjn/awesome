@@ -11,6 +11,9 @@ Personally recommended resouces
 ## Tool
 
 - [Clipy](https://clipy-app.com/)
+- [MindNode](https://mindnode.com/)
+- [Copy Clip](https://itunes.apple.com/us/app/copyclip-clipboard-history-manager/id595191960?mt=12)
+- [Kap](https://getkap.co/)
 
 ## Editor
 
